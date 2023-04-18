@@ -70,29 +70,5 @@
       "type": "boxShadow",
       "description": "For Popup Tip component"
     }
-  },
-  "Focus": {
-    "Focus": {
-      "value": [
-        {
-          "color": "#ffffff",
-          "type": "innerShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "4"
-        },
-        {
-          "color": "#167bc0",
-          "type": "innerShadow",
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "2"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "Adding focus to elements"
-    }
   }
 }
