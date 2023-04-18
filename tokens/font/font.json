@@ -142,12 +142,7 @@
         "fontFamily": "{font.family.sans}",
         "fontWeight": "{font.weight.semibold}",
         "lineHeight": "{line.height.200}",
-        "fontSize": "{font.size.200}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "fontSize": "{font.size.200}"
       },
       "type": "typography"
     },
