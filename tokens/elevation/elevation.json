@@ -1,0 +1,98 @@
+{
+  "Elevation": {
+    "Raised": {
+      "value": {
+        "color": "#232b2d4d",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "2",
+        "blur": "4",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "To accent UI elements like Date Picker"
+    },
+    "Dialog": {
+      "value": {
+        "color": "#232b2d80",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "0",
+        "blur": "250",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "For dialogs that sit on top of other UI. \nPair with --cds-color-overlay"
+    },
+    "Tile": {
+      "value": {
+        "color": "#20262a4d",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "2",
+        "blur": "10",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "For interactive tiles"
+    },
+    "Slider": {
+      "value": [
+        {
+          "color": "#8c8c8c33",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "-2",
+          "blur": "4",
+          "spread": "0"
+        },
+        {
+          "color": "#8c8c8c4d",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "2",
+          "blur": "4",
+          "spread": "0"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "For Slider component knobs"
+    },
+    "Popup Tip": {
+      "value": {
+        "color": "#232b2d4d",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "4",
+        "blur": "4",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "For Popup Tip component"
+    }
+  },
+  "Focus": {
+    "Focus": {
+      "value": [
+        {
+          "color": "#ffffff",
+          "type": "innerShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "4"
+        },
+        {
+          "color": "#167bc0",
+          "type": "innerShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "2"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Adding focus to elements"
+    }
+  }
+}

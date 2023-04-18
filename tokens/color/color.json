@@ -1,0 +1,701 @@
+{
+  "Green 1": {
+    "value": "#e1f1e2",
+    "type": "color"
+  },
+  "Green 2": {
+    "value": "#bde1bf",
+    "type": "color"
+  },
+  "Green 3": {
+    "value": "#97cf9b",
+    "type": "color"
+  },
+  "Green 4": {
+    "value": "#7dc382",
+    "type": "color"
+  },
+  "Green 5": {
+    "value": "#5cb463",
+    "type": "color"
+  },
+  "Green 6": {
+    "value": "#33a13c",
+    "type": "color"
+  },
+  "Green 7": {
+    "value": "#00890b",
+    "type": "color"
+  },
+  "Green 8": {
+    "value": "#006e09",
+    "type": "color"
+  },
+  "Green 9": {
+    "value": "#005807",
+    "type": "color"
+  },
+  "Green 10": {
+    "value": "#004606",
+    "type": "color"
+  },
+  "Green 11": {
+    "value": "#003805",
+    "type": "color"
+  },
+  "Green 12": {
+    "value": "#002d04",
+    "type": "color"
+  },
+  "Blue 1": {
+    "value": "#e1edf6",
+    "type": "color"
+  },
+  "Blue 2": {
+    "value": "#c3ddee",
+    "type": "color"
+  },
+  "Blue 3": {
+    "value": "#a1c9e5",
+    "type": "color"
+  },
+  "Blue 4": {
+    "value": "#89bbdf",
+    "type": "color"
+  },
+  "Blue 5": {
+    "value": "#6caad7",
+    "type": "color"
+  },
+  "Blue 6": {
+    "value": "#4795cd",
+    "type": "color"
+  },
+  "Blue 7": {
+    "value": "#197bc0",
+    "type": "color"
+  },
+  "Blue 8": {
+    "value": "#14629a",
+    "type": "color"
+  },
+  "Blue 9": {
+    "value": "#104e7b",
+    "type": "color"
+  },
+  "Blue 10": {
+    "value": "#0d3e62",
+    "type": "color"
+  },
+  "Blue 11": {
+    "value": "#0a324e",
+    "type": "color"
+  },
+  "Blue 12": {
+    "value": "#08283e",
+    "type": "color"
+  },
+  "Orange 1": {
+    "value": "#f8ede3",
+    "type": "color"
+  },
+  "Orange 2": {
+    "value": "#f0dbc7",
+    "type": "color"
+  },
+  "Orange 3": {
+    "value": "#e7c7a7",
+    "type": "color"
+  },
+  "Orange 4": {
+    "value": "#e1b991",
+    "type": "color"
+  },
+  "Orange 5": {
+    "value": "#d9a876",
+    "type": "color"
+  },
+  "Orange 6": {
+    "value": "#cf9254",
+    "type": "color"
+  },
+  "Orange 7": {
+    "value": "#c37729",
+    "type": "color"
+  },
+  "Orange 8": {
+    "value": "#9c5f21",
+    "type": "color"
+  },
+  "Orange 9": {
+    "value": "#9c5f21",
+    "type": "color"
+  },
+  "Orange 10": {
+    "value": "#643d15",
+    "type": "color"
+  },
+  "Orange 11": {
+    "value": "#503111",
+    "type": "color"
+  },
+  "Orange 12": {
+    "value": "#40270e",
+    "type": "color"
+  },
+  "Red 1": {
+    "value": "#fae6e6",
+    "type": "color"
+  },
+  "Red 2": {
+    "value": "#f4cdcd",
+    "type": "color"
+  },
+  "Red 3": {
+    "value": "#edb1b1",
+    "type": "color"
+  },
+  "Red 4": {
+    "value": "#e99d9d",
+    "type": "color"
+  },
+  "Red 5": {
+    "value": "#e38484",
+    "type": "color"
+  },
+  "Red 6": {
+    "value": "#dc6565",
+    "type": "color"
+  },
+  "Red 7": {
+    "value": "#d33e3e",
+    "type": "color"
+  },
+  "Red 8": {
+    "value": "#a7232e",
+    "type": "color"
+  },
+  "Red 9": {
+    "value": "#861c25",
+    "type": "color"
+  },
+  "Red 10": {
+    "value": "#6b161e",
+    "type": "color"
+  },
+  "Red 11": {
+    "value": "#561218",
+    "type": "color"
+  },
+  "Red 12": {
+    "value": "#450e13",
+    "type": "color"
+  },
+  "Gray 1": {
+    "value": "#f6f6f6",
+    "type": "color"
+  },
+  "Gray 2": {
+    "value": "#e4e7e9",
+    "type": "color"
+  },
+  "Gray 3": {
+    "value": "#bec6ca",
+    "type": "color"
+  },
+  "Gray 4": {
+    "value": "#aeb8bd",
+    "type": "color"
+  },
+  "Gray 5": {
+    "value": "#9aa6ad",
+    "type": "color"
+  },
+  "Gray 6": {
+    "value": "#819099",
+    "type": "color"
+  },
+  "Gray 7": {
+    "value": "#617480",
+    "type": "color"
+  },
+  "Gray 8": {
+    "value": "#4e5d66",
+    "type": "color"
+  },
+  "Gray 9": {
+    "value": "#3e4a52",
+    "type": "color"
+  },
+  "Gray 10": {
+    "value": "#323b42",
+    "type": "color"
+  },
+  "Gray 11": {
+    "value": "#282f35",
+    "type": "color"
+  },
+  "Gray 12": {
+    "value": "#20262a",
+    "type": "color"
+  },
+  "White": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "Background": {
+    "Primary": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Default background color for pages and/or components like List"
+    },
+    "Inverse": {
+      "value": "#323b42",
+      "type": "color",
+      "description": "Inverse of default background color"
+    },
+    "Secondary": {
+      "value": "#f6f6f6",
+      "type": "color",
+      "description": "Alternate background color"
+    }
+  },
+  "Text": {
+    "Text": {
+      "value": "#20262a",
+      "type": "color",
+      "description": "Primary text"
+    },
+    "Error": {
+      "value": "#d33e3e",
+      "type": "color",
+      "description": "Critical text, such as warnings"
+    },
+    "Inverse": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Text on darker backgrounds"
+    },
+    "Success": {
+      "value": "#00890b",
+      "type": "color",
+      "description": "To indicate success"
+    },
+    "Button-Primary-Disabled": {
+      "value": "#5cb463",
+      "type": "color",
+      "description": "Text on disabled primary buttons"
+    },
+    "Button-Danger-Disabled": {
+      "value": "#e38484",
+      "type": "color",
+      "description": "Text on disabled danger buttons"
+    }
+  },
+  "Border": {
+    "Border": {
+      "value": "#bec6ca",
+      "type": "color",
+      "description": "Default for borders of UI elements"
+    },
+    "Disabled": {
+      "value": "#aeb8bd",
+      "type": "color",
+      "description": "For components in a disabled state"
+    },
+    "Focused": {
+      "value": "#197bc0",
+      "type": "color",
+      "description": "Focus border",
+      "Inset": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "To contrast with focus border"
+      }
+    },
+    "Error": {
+      "value": "#d33e3e",
+      "type": "color",
+      "description": "To communicate critical information, such as invalid text input"
+    },
+    "Success": {
+      "value": "#00890b",
+      "type": "color",
+      "description": "To communicate success"
+    },
+    "Button": {
+      "Tertiary": {
+        "value": "#323b42",
+        "type": "color",
+        "description": "Tertiary button border color"
+      }
+    },
+    "Tile": {
+      "Selected": {
+        "value": "#4e5d66",
+        "type": "color",
+        "description": "For single-select or multi-select tiles in a selected state"
+      }
+    }
+  },
+  "Icon": {
+    "Active": {
+      "value": "#323b42",
+      "type": "color",
+      "description": "Icons on light background colors"
+    },
+    "Disabled": {
+      "value": "#aeb8bd",
+      "type": "color",
+      "description": "Disabled state of default icon color"
+    },
+    "Inverse": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Inverse icon color or icons on dark background colors, such as primary buttons"
+    },
+    "Button-Primary-Disabled": {
+      "value": "#5cb463",
+      "type": "color",
+      "description": "Icons on disabled primary buttons"
+    },
+    "Button-Danger-Disabled": {
+      "value": "#e38484",
+      "type": "color",
+      "description": "Icons on disabled danger buttons"
+    }
+  },
+  "Overlay": {
+    "Overlay": {
+      "value": "#20262a8c",
+      "type": "color",
+      "description": "Screen overlay that appears with modal dialogs"
+    }
+  },
+  "Interaction": {
+    "Hovered": {
+      "value": "#f6f6f6",
+      "type": "color",
+      "description": "Hovered background color for light elements"
+    },
+    "Selected": {
+      "value": "#e4e7e9",
+      "type": "color",
+      "description": "Selected background color for light elements"
+    },
+    "Selected-Hover": {
+      "value": "#bec6ca",
+      "type": "color",
+      "description": "Hover state of selected background color for light elements"
+    },
+    "Dark-Hovered": {
+      "value": "#20262a",
+      "type": "color",
+      "description": "Hovered background color for dark elements"
+    }
+  },
+  "Chart": {
+    "1": {
+      "value": "#f05b80",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "2": {
+      "value": "#8d909a",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "3": {
+      "value": "#2f97ff",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "4": {
+      "value": "#bb68c8",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "5": {
+      "value": "#eb6d00",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "6": {
+      "value": "#b8849a",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "7": {
+      "value": "#8a4ff7",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "8": {
+      "value": "#139492",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "9": {
+      "value": "#aa9103",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "10": {
+      "value": "#c33e70",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "11": {
+      "value": "#904b6f",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "12": {
+      "value": "#9d27b0",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "13": {
+      "value": "#3363d8",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "14": {
+      "value": "#00709e",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "15": {
+      "value": "#2a5b59",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "16": {
+      "value": "#381394",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "17": {
+      "value": "#8f3809",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "18": {
+      "value": "#8e6514",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "19": {
+      "value": "#5d5f69",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "20": {
+      "value": "#86335e",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "21": {
+      "value": "#490e3e",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "22": {
+      "value": "#56226e",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "23": {
+      "value": "#2b387f",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    },
+    "24": {
+      "value": "#1d496e",
+      "type": "color",
+      "description": "Data visualization only. Follow numbered sequence."
+    }
+  },
+  "Button": {
+    "Primary": {
+      "value": "#00890b",
+      "type": "color",
+      "description": "Primary button color"
+    },
+    "Primary-Hover": {
+      "value": "#006e09",
+      "type": "color",
+      "description": "Hover color for primary button color"
+    },
+    "Primary-Pressed": {
+      "value": "#005807",
+      "type": "color",
+      "description": "Pressed color of --cds-color-button-primary"
+    },
+    "Primary-Selected": {
+      "value": "#004606",
+      "type": "color",
+      "description": "Selected color of --cds-color-button-primary"
+    },
+    "Primary-Selected-Hover": {
+      "value": "#003805",
+      "type": "color",
+      "description": "Hover color of --cds-color-button-primary-selected"
+    },
+    "Primary-Disabled": {
+      "value": "#bde1bf",
+      "type": "color",
+      "description": "Disabled color of --cds-color-button-primary"
+    },
+    "Secondary": {
+      "value": "#617480",
+      "type": "color",
+      "description": "Secondary button color"
+    },
+    "Secondary-Hover": {
+      "value": "#4e5d66",
+      "type": "color",
+      "description": "Hover color of secondary button color"
+    },
+    "Secondary-Pressed": {
+      "value": "#3e4a52",
+      "type": "color",
+      "description": "Pressed color of secondary button color"
+    },
+    "Secondary-Selected": {
+      "value": "#323b42",
+      "type": "color",
+      "description": "Selected color of secondary button color"
+    },
+    "Secondary-Selected-Hover": {
+      "value": "#282f35",
+      "type": "color",
+      "description": "Hover color of selected secondary button"
+    },
+    "Secondary-Disabled": {
+      "value": "#e4e7e9",
+      "type": "color",
+      "description": "Disabled secondary buttons"
+    },
+    "Tertiary": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Tertiary button color"
+    },
+    "Tertiary-Hover": {
+      "value": "#e4e7e9",
+      "type": "color",
+      "description": "Hover color of tertiary buttons"
+    },
+    "Tertiary-Pressed": {
+      "value": "#bec6ca",
+      "type": "color",
+      "description": "Pressed color of tertiary buttons"
+    },
+    "Tertiary-Selected": {
+      "value": "#aeb8bd",
+      "type": "color",
+      "description": "Selected color of tertiary buttons"
+    },
+    "Tertiary-Selected-Hover": {
+      "value": "#9aa6ad",
+      "type": "color",
+      "description": "Hover color of selected tertiary buttons"
+    },
+    "Danger": {
+      "value": "#d33e3e",
+      "type": "color",
+      "description": "Danger button color"
+    },
+    "Danger-Hover": {
+      "value": "#a7232e",
+      "type": "color",
+      "description": "Hover color of danger buttons"
+    },
+    "Danger-Pressed": {
+      "value": "#861c25",
+      "type": "color",
+      "description": "Pressed color of danger buttons"
+    },
+    "Danger-Selected": {
+      "value": "#6b161e",
+      "type": "color"
+    },
+    "Danger-Selected-Hover": {
+      "value": "#561218",
+      "type": "color",
+      "description": "Hover color of selected danger buttons"
+    },
+    "Danger-Disabled": {
+      "value": "#f4cdcd",
+      "type": "color",
+      "description": "Disabled danger buttons"
+    },
+    "Transparent-Hover": {
+      "value": "#e4e7e9",
+      "type": "color",
+      "description": "Hover color of transparent buttons"
+    },
+    "Transparent-Pressed": {
+      "value": "#bec6ca",
+      "type": "color",
+      "description": "Pressed color of transparent buttons"
+    },
+    "Transparent-Selected": {
+      "value": "#aeb8bd",
+      "type": "color",
+      "description": "Selected color of transparent buttons"
+    },
+    "Transparent-Selected-Hover": {
+      "value": "#9aa6ad",
+      "type": "color",
+      "description": "Hover color of selected transparent buttons"
+    }
+  },
+  "Link": {
+    "Primary": {
+      "value": "#197bc0",
+      "type": "color",
+      "description": "Primary link color"
+    },
+    "Primary-Hovered": {
+      "value": "#14629a",
+      "type": "color",
+      "description": "Color for hovered primary links"
+    },
+    "Primary-Pressed": {
+      "value": "#104e7b",
+      "type": "color",
+      "description": "Color for pressed primary links"
+    },
+    "Primary-Visited": {
+      "value": "#0d3e62",
+      "type": "color",
+      "description": "Color for visited primary links"
+    },
+    "Primary-Disabled": {
+      "value": "#aeb8bd",
+      "type": "color",
+      "description": "Color for disabled primary links"
+    },
+    "Secondary": {
+      "value": "#617480",
+      "type": "color"
+    },
+    "Secondary-Hovered": {
+      "value": "#4e5d66",
+      "type": "color",
+      "description": "Color for hovered secondary links"
+    },
+    "Secondary-Pressed": {
+      "value": "#3e4a52",
+      "type": "color",
+      "description": "Color for pressed secondary links"
+    },
+    "Secondary-Visited": {
+      "value": "#282f35",
+      "type": "color",
+      "description": "Color for visited secondary links"
+    }
+  }
+}
