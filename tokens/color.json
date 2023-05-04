@@ -330,6 +330,11 @@
             "value": "#323b42",
             "type": "color",
             "description": "Tertiary button border color"
+          },
+          "Tertiary-Disabled": {
+            "value": "#AEB8BD",
+            "type": "color",
+            "description": "Disabled tertiary button border color"
           }
         },
         "Tile": {

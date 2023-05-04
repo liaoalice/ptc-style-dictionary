@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Apr 2023 20:36:51 GMT
+// Generated on Thu, 04 May 2023 13:28:53 GMT
 
 
 import UIKit
@@ -27,6 +27,7 @@ internal struct StyleDictionaryStruct {
     internal static let cdsColorBlue9 = #104e7b
     internal static let cdsColorBorderBorder = #bec6ca
     internal static let cdsColorBorderButtonTertiary = #323b42
+    internal static let cdsColorBorderButtonTertiaryDisabled = #AEB8BD
     internal static let cdsColorBorderDisabled = #aeb8bd
     internal static let cdsColorBorderError = #d33e3e
     internal static let cdsColorBorderFocused = #197bc0

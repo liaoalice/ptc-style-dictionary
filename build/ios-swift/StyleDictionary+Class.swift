@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 18 Apr 2023 20:36:51 GMT
+// Generated on Thu, 04 May 2023 13:28:53 GMT
 
 
 import UIKit
@@ -27,6 +27,7 @@ public class StyleDictionaryClass {
     public static let cdsColorBlue9 = #104e7b
     public static let cdsColorBorderBorder = #bec6ca
     public static let cdsColorBorderButtonTertiary = #323b42
+    public static let cdsColorBorderButtonTertiaryDisabled = #AEB8BD
     public static let cdsColorBorderDisabled = #aeb8bd
     public static let cdsColorBorderError = #d33e3e
     public static let cdsColorBorderFocused = #197bc0
