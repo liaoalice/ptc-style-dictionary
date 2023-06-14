@@ -276,7 +276,7 @@
         "Inverse": {
           "value": "#ffffff",
           "type": "color",
-          "description": "Text on darker backgrounds"
+          "description": "Text on inverse or bold background colors"
         },
         "Success": {
           "value": "#00890b",
@@ -359,7 +359,7 @@
         "Inverse": {
           "value": "#ffffff",
           "type": "color",
-          "description": "Inverse icon color or icons on dark background colors, such as primary buttons"
+          "description": "Inverse icon color or icons on bold background colors"
         },
         "Button-Primary-Disabled": {
           "value": "#5cb463",
@@ -395,10 +395,10 @@
           "type": "color",
           "description": "Hover state of selected background color for light elements"
         },
-        "Dark-Hovered": {
+        "Inverse-Hovered": {
           "value": "#20262a",
           "type": "color",
-          "description": "Hovered background color for dark elements"
+          "description": "Hovered background color for inverse elements"
         }
       },
       "Chart": {

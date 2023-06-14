@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 04 May 2023 13:28:53 GMT
+// Generated on Wed, 14 Jun 2023 10:46:08 GMT
 
 
 import UIKit
@@ -113,8 +113,8 @@ public enum StyleDictionaryEnum {
     public static let cdsColorIconButtonPrimaryDisabled = #5cb463
     public static let cdsColorIconDisabled = #aeb8bd
     public static let cdsColorIconInverse = #ffffff
-    public static let cdsColorInteractionDarkHovered = #20262a
     public static let cdsColorInteractionHovered = #f6f6f6
+    public static let cdsColorInteractionInverseHovered = #20262a
     public static let cdsColorInteractionSelected = #e4e7e9
     public static let cdsColorInteractionSelectedHover = #bec6ca
     public static let cdsColorLinkPrimary = #197bc0

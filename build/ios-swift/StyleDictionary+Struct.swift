@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 04 May 2023 13:28:53 GMT
+// Generated on Wed, 14 Jun 2023 10:46:08 GMT
 
 
 import UIKit
@@ -113,8 +113,8 @@ internal struct StyleDictionaryStruct {
     internal static let cdsColorIconButtonPrimaryDisabled = #5cb463
     internal static let cdsColorIconDisabled = #aeb8bd
     internal static let cdsColorIconInverse = #ffffff
-    internal static let cdsColorInteractionDarkHovered = #20262a
     internal static let cdsColorInteractionHovered = #f6f6f6
+    internal static let cdsColorInteractionInverseHovered = #20262a
     internal static let cdsColorInteractionSelected = #e4e7e9
     internal static let cdsColorInteractionSelectedHover = #bec6ca
     internal static let cdsColorLinkPrimary = #197bc0
