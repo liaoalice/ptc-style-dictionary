@@ -525,7 +525,7 @@
       },
       "Button": {
         "Primary": {
-          "value": "#00890b",
+          "value": "#197BC0",
           "type": "color",
           "description": "Primary button color"
         },
