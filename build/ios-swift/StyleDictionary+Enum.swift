@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Jun 2023 11:15:50 GMT
+// Generated on Tue, 27 Jun 2023 11:17:59 GMT
 
 
 import UIKit
@@ -138,7 +138,7 @@ public enum StyleDictionaryEnum {
     public static let cdsColorOrange7 = #c37729
     public static let cdsColorOrange8 = #9c5f21
     public static let cdsColorOrange9 = #9c5f21
-    public static let cdsColorOverlayOverlay = #20262a8c
+    public static let cdsColorOverlayDefault = #20262a8c
     public static let cdsColorRed1 = #fae6e6
     public static let cdsColorRed10 = #6b161e
     public static let cdsColorRed11 = #561218

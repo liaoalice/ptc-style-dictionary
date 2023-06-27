@@ -373,7 +373,7 @@
         }
       },
       "Overlay": {
-        "Overlay": {
+        "Default": {
           "value": "#20262a8c",
           "type": "color",
           "description": "Screen overlay that appears with modal dialogs"

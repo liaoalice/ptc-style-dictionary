@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Jun 2023 11:15:50 GMT
+// Generated on Tue, 27 Jun 2023 11:17:59 GMT
 
 
 import UIKit
@@ -138,7 +138,7 @@ internal struct StyleDictionaryStruct {
     internal static let cdsColorOrange7 = #c37729
     internal static let cdsColorOrange8 = #9c5f21
     internal static let cdsColorOrange9 = #9c5f21
-    internal static let cdsColorOverlayOverlay = #20262a8c
+    internal static let cdsColorOverlayDefault = #20262a8c
     internal static let cdsColorRed1 = #fae6e6
     internal static let cdsColorRed10 = #6b161e
     internal static let cdsColorRed11 = #561218
