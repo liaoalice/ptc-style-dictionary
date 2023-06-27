@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Jun 2023 12:27:35 GMT
+// Generated on Tue, 27 Jun 2023 11:15:50 GMT
 
 
 import UIKit
@@ -25,9 +25,9 @@ internal struct StyleDictionaryStruct {
     internal static let cdsColorBlue7 = #197bc0
     internal static let cdsColorBlue8 = #14629a
     internal static let cdsColorBlue9 = #104e7b
-    internal static let cdsColorBorderBorder = #bec6ca
     internal static let cdsColorBorderButtonTertiary = #323b42
     internal static let cdsColorBorderButtonTertiaryDisabled = #AEB8BD
+    internal static let cdsColorBorderDefault = #bec6ca
     internal static let cdsColorBorderDisabled = #aeb8bd
     internal static let cdsColorBorderError = #d33e3e
     internal static let cdsColorBorderFocused = #197bc0
@@ -153,10 +153,10 @@ internal struct StyleDictionaryStruct {
     internal static let cdsColorRed9 = #861c25
     internal static let cdsColorTextButtonDangerDisabled = #e38484
     internal static let cdsColorTextButtonPrimaryDisabled = #5cb463
+    internal static let cdsColorTextDefault = #20262a
     internal static let cdsColorTextError = #d33e3e
     internal static let cdsColorTextInverse = #ffffff
     internal static let cdsColorTextSuccess = #00890b
-    internal static let cdsColorTextText = #20262a
     internal static let cdsColorWhite = #ffffff
     internal static let cdsElevationDialog = [object Object]
     internal static let cdsElevationPopupTip = [object Object]

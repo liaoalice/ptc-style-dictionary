@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Jun 2023 12:27:35 GMT
+// Generated on Tue, 27 Jun 2023 11:15:50 GMT
 
 
 import UIKit
@@ -25,9 +25,9 @@ public class StyleDictionaryClass {
     public static let cdsColorBlue7 = #197bc0
     public static let cdsColorBlue8 = #14629a
     public static let cdsColorBlue9 = #104e7b
-    public static let cdsColorBorderBorder = #bec6ca
     public static let cdsColorBorderButtonTertiary = #323b42
     public static let cdsColorBorderButtonTertiaryDisabled = #AEB8BD
+    public static let cdsColorBorderDefault = #bec6ca
     public static let cdsColorBorderDisabled = #aeb8bd
     public static let cdsColorBorderError = #d33e3e
     public static let cdsColorBorderFocused = #197bc0
@@ -153,10 +153,10 @@ public class StyleDictionaryClass {
     public static let cdsColorRed9 = #861c25
     public static let cdsColorTextButtonDangerDisabled = #e38484
     public static let cdsColorTextButtonPrimaryDisabled = #5cb463
+    public static let cdsColorTextDefault = #20262a
     public static let cdsColorTextError = #d33e3e
     public static let cdsColorTextInverse = #ffffff
     public static let cdsColorTextSuccess = #00890b
-    public static let cdsColorTextText = #20262a
     public static let cdsColorWhite = #ffffff
     public static let cdsElevationDialog = [object Object]
     public static let cdsElevationPopupTip = [object Object]

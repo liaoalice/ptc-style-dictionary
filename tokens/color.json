@@ -263,10 +263,10 @@
         }
       },
       "Text": {
-        "Text": {
+        "Default": {
           "value": "#20262a",
           "type": "color",
-          "description": "Primary text"
+          "description": "Default text color"
         },
         "Error": {
           "value": "#d33e3e",
@@ -295,7 +295,7 @@
         }
       },
       "Border": {
-        "Border": {
+        "Default": {
           "value": "#bec6ca",
           "type": "color",
           "description": "Default for borders of UI elements"
