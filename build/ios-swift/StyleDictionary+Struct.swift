@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Jun 2023 12:37:33 GMT
+// Generated on Tue, 27 Jun 2023 15:18:46 GMT
 
 
 import UIKit
@@ -156,6 +156,7 @@ internal struct StyleDictionaryStruct {
     internal static let cdsColorTextButtonPrimaryDisabled = #5cb463
     internal static let cdsColorTextButtonSecondaryDisabled = #9AA6AD
     internal static let cdsColorTextDefault = #20262a
+    internal static let cdsColorTextDisabled = #aeb8bd
     internal static let cdsColorTextError = #d33e3e
     internal static let cdsColorTextInverse = #ffffff
     internal static let cdsColorTextSuccess = #00890b

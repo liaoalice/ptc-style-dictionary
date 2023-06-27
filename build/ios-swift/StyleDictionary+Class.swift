@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Jun 2023 12:37:33 GMT
+// Generated on Tue, 27 Jun 2023 15:18:46 GMT
 
 
 import UIKit
@@ -156,6 +156,7 @@ public class StyleDictionaryClass {
     public static let cdsColorTextButtonPrimaryDisabled = #5cb463
     public static let cdsColorTextButtonSecondaryDisabled = #9AA6AD
     public static let cdsColorTextDefault = #20262a
+    public static let cdsColorTextDisabled = #aeb8bd
     public static let cdsColorTextError = #d33e3e
     public static let cdsColorTextInverse = #ffffff
     public static let cdsColorTextSuccess = #00890b

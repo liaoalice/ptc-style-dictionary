@@ -273,15 +273,20 @@
           "type": "color",
           "description": "Critical text, such as warnings"
         },
+        "Success": {
+          "value": "#00890b",
+          "type": "color",
+          "description": "To indicate success"
+        },
         "Inverse": {
           "value": "#ffffff",
           "type": "color",
           "description": "Text on inverse or bold background colors"
         },
-        "Success": {
-          "value": "#00890b",
+        "Disabled": {
+          "value": "#aeb8bd",
           "type": "color",
-          "description": "To indicate success"
+          "description": "Disabled text color"
         },
         "Button-Primary-Disabled": {
           "value": "#5cb463",
