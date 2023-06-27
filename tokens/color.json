@@ -288,6 +288,11 @@
           "type": "color",
           "description": "Text on disabled primary buttons"
         },
+        "Button-Secondary-Disabled": {
+          "value": "#9AA6AD",
+          "type": "color",
+          "description": "Text on disabled primary buttons"
+        },
         "Button-Danger-Disabled": {
           "value": "#e38484",
           "type": "color",

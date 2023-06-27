@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 27 Jun 2023 12:25:11 GMT
+// Generated on Tue, 27 Jun 2023 12:37:33 GMT
 
 
 import UIKit
@@ -154,6 +154,7 @@ public enum StyleDictionaryEnum {
     public static let cdsColorRed9 = #861c25
     public static let cdsColorTextButtonDangerDisabled = #e38484
     public static let cdsColorTextButtonPrimaryDisabled = #5cb463
+    public static let cdsColorTextButtonSecondaryDisabled = #9AA6AD
     public static let cdsColorTextDefault = #20262a
     public static let cdsColorTextError = #d33e3e
     public static let cdsColorTextInverse = #ffffff
