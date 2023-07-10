@@ -263,7 +263,6 @@
         }
       },
       "Text": {
-        "Default": {
           "value": "#20262a",
           "type": "color",
           "description": "Default text color"
@@ -305,7 +304,6 @@
         }
       },
       "Border": {
-        "Default": {
           "value": "#bec6ca",
           "type": "color",
           "description": "Default for borders of UI elements"
@@ -388,12 +386,10 @@
         }
       },
       "Overlay": {
-        "Default": {
           "value": "#20262a8c",
           "type": "color",
           "description": "Screen overlay that appears with modal dialogs"
-        }
-      },
+        },
       "Interaction": {
         "Hovered": {
           "value": "#f6f6f6",
@@ -721,5 +717,4 @@
         }
       }
     }
-  }
-}
+
